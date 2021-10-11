@@ -308,7 +308,6 @@ die();
 
 </div>
 
-
 <?php
 
 curl_exec($ch);
